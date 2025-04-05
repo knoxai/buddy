@@ -1,6 +1,6 @@
 ## [Buddy ](https://buddy.red)是一个帮助程序员编程的AI助理VS Code插件 | Cursor平替AI代码助理、随意使用任何兼容OpenAI API的模型。
 
-![](./media/composer-mode.png)
+![](./media/dd.png)
 
 **Buddy** 旨在无缝集成到VS Code或其他相关的兼容编辑器中，为开发者提供智能助理以提高生产力和简化工作流程。使用Buddy，开发人员可以随意挑选当前强大的AI功能轻松浏览代码库、编写和调试代码，并对项目管理。
 
